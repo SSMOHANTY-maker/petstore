@@ -1,2 +1,2 @@
 # petstore
-petstore
+Information about petstore
